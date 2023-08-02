@@ -1,16 +1,7 @@
-# inspiration_app_ui
+# Inspirational App Ui
 
-A new Flutter project.
+This is the ui of an inspirational app. I recreate it from the tutorial of @afgprogrammer
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](assets/images/screenshots/first-screen.jpg)
