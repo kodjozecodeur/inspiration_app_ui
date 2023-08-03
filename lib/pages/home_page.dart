@@ -128,15 +128,19 @@ class _HomePageState extends State<HomePage> {
                     children: const [
                       PromoCard(
                         imagePath: 'assets/images/flower.jpg',
+                        cardTitle: 'Epphanie',
                       ),
                       PromoCard(
                         imagePath: 'assets/images/design.jpg',
+                        cardTitle: 'Modern',
                       ),
                       PromoCard(
                         imagePath: 'assets/images/desk.jpg',
+                        cardTitle: 'Design',
                       ),
                       PromoCard(
                         imagePath: 'assets/images/nature.jpg',
+                        cardTitle: 'Nature',
                       ),
                     ],
                   ),
